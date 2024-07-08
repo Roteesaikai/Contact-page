@@ -1,0 +1,9 @@
+
+.content{
+    width: 500px;
+    height: 100px;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    padding-top:10px ;
+    text-align: center;
+}
